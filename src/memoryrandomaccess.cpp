@@ -2,6 +2,7 @@
 #include <cstdint>
 #include <cstdio>
 #include <exception>
+#include <stdexcept>
 
 #define K 1024u
 
